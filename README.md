@@ -8,7 +8,7 @@ A Signal Bot to never forget a birthday.
    ./signal-cli -u +49<TelephonenumberSender> verify <SecurityCode>
    ./signal-cli -u +49<TelephonenumberSender> send -m “Hello World” +49<TelephonenumberReciever>
    ```
-3. Change the +49<TelephonenumberSender> in BirthdaySignal.py
+3. Change the "+49<TelephonenumberSender>" in BirthdaySignal.py
 4. Generate a CVS with the format <Telefonnummer>,<Name>,<Birthday> and call it BirthdaySignal.csv
    ```
    +4912345678910;Jen;1123-04-22
